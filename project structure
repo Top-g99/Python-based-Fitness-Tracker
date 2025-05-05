@@ -1,0 +1,5 @@
+fitness_tracker/
+│
+├── fitness_tracker.py
+├── data.json
+└── README.md
